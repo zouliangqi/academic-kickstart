@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "liangqizou123@gmail.com"
+phone = "13295609196"
+address = "Building J1 Room 1327, Foxconn(Shenzhen), GuanDong, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -103,10 +103,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "22.55"
+longitude = "114.05"
 zoom = 15
 
 ############################
@@ -165,7 +165,7 @@ sharing = true
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -189,4 +189,4 @@ sharing = true
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true

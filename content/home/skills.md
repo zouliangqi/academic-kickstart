@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Python"
   description = "100%"  
   
 [[feature]]
